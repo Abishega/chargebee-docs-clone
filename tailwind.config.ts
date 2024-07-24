@@ -8,6 +8,19 @@ const config: Config = {
   ],
   theme: {
     extend: {
+      colors:{
+        "mature_blue": '#0e4659',
+        "forest-green": '#228B22',
+        'spunky-lime': '#bff90b',
+        'verBlue': '#0e4659'
+
+      },
+      fontSize: {
+        'custom': '22px',
+      },
+      fontFamily: {
+        sora: ['Sora', 'sans-serif'], 
+      },
       backgroundImage: {
         "gradient-radial": "radial-gradient(var(--tw-gradient-stops))",
         "gradient-conic":
