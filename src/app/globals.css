@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.underline-custom {
+  text-decoration: underline;
+  text-decoration-color: #bff90b;
+  text-underline-offset: 0.55rem;
+}
+
+.scroll-margin {
+  scroll-margin-top: 4rem;
+}

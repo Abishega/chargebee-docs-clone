@@ -1,0 +1,29 @@
+[
+    {
+      "section": "Home",
+      "subtopics": [
+        {
+          "title": "Getting Started",
+          "content": ["Introduction to the documentation.", "How to use the documentation effectively."]
+        },
+        {
+          "title": "Implementation",
+          "content": ["Step-by-step guide to implementation.", "Best practices for successful implementation."]
+        }
+      ]
+    },
+    {
+      "section": "Billing",
+      "subtopics": [
+        {
+          "title": "Billing Overview",
+          "content": ["General information about billing.", "Billing cycles and terms."]
+        },
+        {
+          "title": "Payment Methods",
+          "content": ["Accepted payment methods.", "How to update payment methods."]
+        }
+      ]
+    }
+  ]
+  
