@@ -2,9 +2,12 @@
 @tailwind components;
 @tailwind utilities;
 
-/* styles/globals.css or another CSS file */
 .underline-custom {
   text-decoration: underline;
-  text-decoration-color: #bff90b; /* Replace with your desired color */
-  text-underline-offset: 0.55rem; /* Adjust the gap between text and underline */
+  text-decoration-color: #bff90b;
+  text-underline-offset: 0.55rem;
+}
+
+.scroll-margin {
+  scroll-margin-top: 4rem;
 }

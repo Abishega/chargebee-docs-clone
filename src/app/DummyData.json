@@ -28,7 +28,8 @@
           {
             "subTitle": "Dashboard Customization",
             "paragraph": "Customize your dashboard to better suit your needs. Adjust the widgets, set up notifications, and choose which metrics are displayed prominently. This guide will walk you through the customization options available in your billing dashboard. You can rearrange widgets to prioritize the most important information, set up alerts for specific thresholds or events, and select from various themes to match your preferences. Additionally, you can save different dashboard configurations and switch between them based on your current focus or task."
-          },{
+          },
+          {
             "subTitle": "Web Interface",
             "paragraph": "The web interface provides a comprehensive view of your billing information. You can manage your payment methods, view invoices, and track your spending through an intuitive dashboard. This section covers all the functionalities available through the web interface. With features like real-time updates, customizable views, and detailed analytics, the web interface allows you to have complete control over your billing data. You can easily navigate through different sections, apply filters, and generate reports to better understand your financial activities."
           },
@@ -120,8 +121,7 @@
       }
     ]
   },
-  
-  
+
   {
     "section": "Payments",
     "subtopics": [
@@ -254,5 +254,4 @@
       }
     ]
   }
- 
 ]
